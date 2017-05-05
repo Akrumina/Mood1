@@ -1,0 +1,50 @@
+div.main-container{
+background-color:red;
+height: 5480px;
+width: 1280px;
+}
+
+div.first-block{
+  background-color: blue;
+  height:820px;
+}
+
+div.services-container{
+  background-color: green;
+  height: 480px;
+}
+
+div.ourwork-container{
+  background-color: yellow;
+  height: 420px;
+}
+
+div.photo-container{
+  background-color: orange;
+  height: 600px;
+}
+
+div.price-container{
+  background-color: violet;
+  height: 800px;
+}
+
+div.teaminfo-container{
+  background-color: grey;
+  height: 860px;
+}
+
+div.communicate-container{
+  background-color: brown;
+  height: 720px;
+}
+
+div.map-container{
+  background-color: pink;
+  height: 500px;
+}
+
+div.last-container{
+  background-color: purple;
+  height: 280px;
+}

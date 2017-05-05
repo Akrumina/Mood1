@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8">
+   <title>Mood creation</title>
+   <link rel="stylesheet" type="text/css" href="styles.css">
+<head/>
+<body>
+<div class="main-container">
+  <div class="first-block">
+    <a>lala</a>
+
+  </div>
+  <div class="services-container">
+
+
+  </div>
+
+  <div class="ourwork-container">
+
+  </div>
+
+  <div class="photo-container">
+
+  </div>
+
+  <div class="price-container">
+
+  </div>
+
+  <div class="teaminfo-container">
+
+  </div>
+
+  <div class="communicate-container">
+
+  </div>
+
+  <div class="map-container">
+
+  </div>
+
+  <div class="last-container">
+
+  </div>
+</div>
+
+
+
+ </body>
+ </html>
